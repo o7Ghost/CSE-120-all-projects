@@ -1,0 +1,56 @@
+# Makefile to compile Umix Programming Assignment 2 (pa2)
+
+LIBDIR = $(UMIXPUBDIR)/lib
+# LIBDIR = $(UMIXROOTDIR)/sys
+
+CC 	= cc 
+FLAGS 	= -g -L$(LIBDIR) -lumix2
+
+PA2 =	fifoTest1 fifoTest2 fifoTest3 fifoTest4 lifoTest1
+
+pa2:	$(PA2)
+
+fifoTest1:	fifoTest1.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o fifoTest1 fifoTest1.c mycode2.o
+
+fifoTest2:	fifoTest2.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o fifoTest2 fifoTest2.c mycode2.o
+
+fifoTest3:	fifoTest3.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o fifoTest3 fifoTest3.c mycode2.o
+
+fifoTest4:	fifoTest4.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o fifoTest4 fifoTest4.c mycode2.o
+
+lifoTest1:	lifoTest1.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o lifoTest1 lifoTest1.c mycode2.o
+
+roundRobinTest1:	roundRobinTest1.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o roundRobinTest1 roundRobinTest1.c mycode2.o
+
+
+roundRobinTest2:	roundRobinTest2.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o roundRobinTest2 roundRobinTest2.c mycode2.o
+
+proportionalTest1:	proportionalTest1.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o proportionalTest1 proportionalTest1.c mycode2.o
+
+proportionalTest2:	proportionalTest2.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o proportionalTest2 proportionalTest2.c mycode2.o
+
+proportionalTest3:	proportionalTest3.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o proportionalTest3 proportionalTest3.c mycode2.o
+
+proportionalTest4:	proportionalTest4.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o proportionalTest4 proportionalTest4.c mycode2.o
+
+proportionalTest5:	proportionalTest5.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o proportionalTest5 proportionalTest5.c mycode2.o
+
+proportionalTest6:	proportionalTest6.c aux.h umix.h mycode2.o
+	$(CC) $(FLAGS) -o proportionalTest6 proportionalTest6.c mycode2.o
+mycode2.o:	mycode2.c aux.h sys.h mycode2.h
+	$(CC) $(FLAGS) -c mycode2.c
+
+clean:
+	rm -f *.o $(PA2)
