@@ -1,0 +1,22 @@
+
+Running test 19
+
+Thread 2 is exiting
+T1: iteration 0
+Expected ID assigned: 3, Actual ID assigned 3
+T0: iteration 0
+T1: iteration 1
+T3: iteration 0
+T0: iteration 1
+T1: iteration 2
+T3: iteration 1
+T0: iteration 2
+T1: iteration 3
+T3: iteration 2
+T0: iteration 3
+T1: iteration 4
+T3: iteration 3
+T0: iteration 4
+T3: iteration 4
+
+System exiting (normal)

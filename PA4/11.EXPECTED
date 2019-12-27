@@ -1,0 +1,25 @@
+
+Running test 11
+
+Created thread 1
+Created thread 2
+Created thread 3
+Created thread 4
+Created thread 5
+Created thread 6
+Thread 5 is exiting
+T1 prints
+T2 prints
+T3 prints
+T4 prints
+T6 prints
+Created thread 7
+Created thread 8
+Created thread 9
+Expected t: 5, actual t: 5
+T7 prints
+T8 prints
+T9 prints
+Thread 5 is exiting
+
+System exiting (normal)

@@ -1,0 +1,105 @@
+
+Running test 6
+
+T9: iteration 0
+T8: iteration 0
+T7: iteration 0
+T6: iteration 0
+T5: iteration 0
+T4: iteration 0
+T3: iteration 0
+T2: iteration 0
+T1: iteration 0
+T0: iteration 0
+Thread 9 resumed by thread 0
+T9: iteration 1
+Thread 8 resumed by thread 9
+T8: iteration 1
+Thread 7 resumed by thread 8
+T7: iteration 1
+Thread 6 resumed by thread 7
+T6: iteration 1
+Thread 5 resumed by thread 6
+T5: iteration 1
+Thread 4 resumed by thread 5
+T4: iteration 1
+Thread 3 resumed by thread 4
+T3: iteration 1
+Thread 2 resumed by thread 3
+T2: iteration 1
+Thread 1 resumed by thread 2
+T1: iteration 1
+Thread 0 resumed by thread 1
+T0: iteration 1
+Thread 9 resumed by thread 0
+T9: iteration 2
+Thread 8 resumed by thread 9
+T8: iteration 2
+Thread 7 resumed by thread 8
+T7: iteration 2
+Thread 6 resumed by thread 7
+T6: iteration 2
+Thread 5 resumed by thread 6
+T5: iteration 2
+Thread 4 resumed by thread 5
+T4: iteration 2
+Thread 3 resumed by thread 4
+T3: iteration 2
+Thread 2 resumed by thread 3
+T2: iteration 2
+Thread 1 resumed by thread 2
+T1: iteration 2
+Thread 0 resumed by thread 1
+T0: iteration 2
+Thread 9 resumed by thread 0
+T9: iteration 3
+Thread 8 resumed by thread 9
+T8: iteration 3
+Thread 7 resumed by thread 8
+T7: iteration 3
+Thread 6 resumed by thread 7
+T6: iteration 3
+Thread 5 resumed by thread 6
+T5: iteration 3
+Thread 4 resumed by thread 5
+T4: iteration 3
+Thread 3 resumed by thread 4
+T3: iteration 3
+Thread 2 resumed by thread 3
+T2: iteration 3
+Thread 1 resumed by thread 2
+T1: iteration 3
+Thread 0 resumed by thread 1
+T0: iteration 3
+Thread 9 resumed by thread 0
+T9: iteration 4
+Thread 8 resumed by thread 9
+T8: iteration 4
+Thread 7 resumed by thread 8
+T7: iteration 4
+Thread 6 resumed by thread 7
+T6: iteration 4
+Thread 5 resumed by thread 6
+T5: iteration 4
+Thread 4 resumed by thread 5
+T4: iteration 4
+Thread 3 resumed by thread 4
+T3: iteration 4
+Thread 2 resumed by thread 3
+T2: iteration 4
+Thread 1 resumed by thread 2
+T1: iteration 4
+Thread 0 resumed by thread 1
+T0: iteration 4
+Thread 9 resumed by thread 0
+Thread 8 resumed by thread -1
+Thread 7 resumed by thread -1
+Thread 6 resumed by thread -1
+Thread 5 resumed by thread -1
+Thread 4 resumed by thread -1
+Thread 3 resumed by thread -1
+Thread 2 resumed by thread -1
+Thread 1 resumed by thread -1
+Thread 0 resumed by thread -1
+
+System exiting (normal)

@@ -1,0 +1,144 @@
+Umix (User-Mode Unix) CSE120 Instructional OS v. 4.011 3/01/19-21:45 11026
+
+
+5 with parameter 5
+
+1 with parameter 1
+
+2 with parameter 2
+
+3 with parameter 3
+
+4 with parameter 4
+
+6 with parameter 6
+
+7 with parameter 7
+
+8 with parameter 8
+
+9 with parameter 9
+
+2 with parameter 22
+
+1 with parameter 11
+
+3 with parameter 33
+
+4 with parameter 44
+
+5 with parameter 55
+
+6 with parameter 66
+
+7 with parameter 77
+
+8 with parameter 88
+
+9 with parameter 99
+
+4 with parameter 444
+
+1 with parameter 111
+
+2 with parameter 222
+
+3 with parameter 333
+
+5 with parameter 555
+
+6 with parameter 666
+
+7 with parameter 777
+
+8 with parameter 888
+
+9 with parameter 999
+
+1 with parameter 1111
+
+2 with parameter 2222
+
+3 with parameter 3333
+
+4 with parameter 11111
+
+5 with parameter 22222
+
+6 with parameter 33333
+T6: 0 cubed = 0
+
+T5: 0 squared = 0
+T4: 0 cubed = 0
+
+T3: 0 squared = 0
+T2: 0 cubed = 0
+
+T1: 0 squared = 0
+T9: 0 cubed = 0
+
+T8: 0 squared = 0
+T7: 0 cubed = 0
+T6: 1 cubed = 1
+
+T5: 1 squared = 1
+T4: 1 cubed = 1
+
+T3: 1 squared = 1
+T2: 1 cubed = 1
+
+T1: 1 squared = 1
+T9: 1 cubed = 1
+
+T8: 1 squared = 1
+T7: 1 cubed = 1
+T6: 2 cubed = 8
+
+T5: 2 squared = 4
+T4: 2 cubed = 8
+
+T3: 2 squared = 4
+T2: 2 cubed = 8
+
+T1: 2 squared = 4
+T9: 2 cubed = 8
+
+T8: 2 squared = 4
+T7: 2 cubed = 8
+T6: 3 cubed = 27
+
+T5: 3 squared = 9
+T4: 3 cubed = 27
+
+T3: 3 squared = 9
+T2: 3 cubed = 27
+
+T1: 3 squared = 9
+T9: 3 cubed = 27
+
+T8: 3 squared = 9
+T7: 3 cubed = 27
+T6: 4 cubed = 64
+
+T5: 4 squared = 16
+T4: 4 cubed = 64
+
+T3: 4 squared = 16
+T2: 4 cubed = 64
+
+T1: 4 squared = 16
+T9: 4 cubed = 64
+
+T8: 4 squared = 16
+T7: 4 cubed = 64
+T0: square = 16, cube = 64
+YieldThread: Thread 6 does not exist
+T0: square = 16, cube = 64
+YieldThread: Thread 6 does not exist
+T0: square = 16, cube = 64
+YieldThread: Thread 6 does not exist
+T0: square = 16, cube = 64
+YieldThread: Thread 6 does not exist
+T0: square = 16, cube = 64
+
+System exiting (normal)

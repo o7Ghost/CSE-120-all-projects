@@ -1,0 +1,29 @@
+
+Running test 3
+
+T1: iteration 0
+T0: iteration 0
+Thread 0 resumed by thread 0
+T0: iteration 1
+Thread 0 resumed by thread 0
+T0: iteration 2
+Thread 0 resumed by thread 0
+T0: iteration 3
+Thread 0 resumed by thread 0
+T0: iteration 4
+Thread 0 resumed by thread 0
+Thread 1 resumed by thread -1
+T1: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+T1: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+T1: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+T1: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+
+System exiting (normal)

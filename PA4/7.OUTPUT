@@ -1,0 +1,140 @@
+
+Running test 7
+
+T0: iteration 0
+T1: iteration 0
+T0: iteration 1
+T2: iteration 0
+T0: iteration 2
+T3: iteration 0
+T0: iteration 3
+T4: iteration 0
+T0: iteration 4
+T5: iteration 0
+T6: iteration 0
+MyYieldThread: Thread 0 does not exist
+Thread 6 resumed by thread -1
+T6: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 6 resumed by thread -1
+T6: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 6 resumed by thread -1
+T6: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 6 resumed by thread -1
+T6: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 6 resumed by thread -1
+T7: iteration 0
+MyYieldThread: Thread 0 does not exist
+Thread 7 resumed by thread -1
+T7: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 7 resumed by thread -1
+T7: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 7 resumed by thread -1
+T7: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 7 resumed by thread -1
+T7: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 7 resumed by thread -1
+T8: iteration 0
+MyYieldThread: Thread 0 does not exist
+Thread 8 resumed by thread -1
+T8: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 8 resumed by thread -1
+T8: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 8 resumed by thread -1
+T8: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 8 resumed by thread -1
+T8: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 8 resumed by thread -1
+T9: iteration 0
+MyYieldThread: Thread 0 does not exist
+Thread 9 resumed by thread -1
+T9: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 9 resumed by thread -1
+T9: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 9 resumed by thread -1
+T9: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 9 resumed by thread -1
+T9: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 9 resumed by thread -1
+Thread 1 resumed by thread -1
+T1: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+T1: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+T1: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+T1: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 1 resumed by thread -1
+Thread 2 resumed by thread -1
+T2: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 2 resumed by thread -1
+T2: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 2 resumed by thread -1
+T2: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 2 resumed by thread -1
+T2: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 2 resumed by thread -1
+Thread 3 resumed by thread -1
+T3: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 3 resumed by thread -1
+T3: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 3 resumed by thread -1
+T3: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 3 resumed by thread -1
+T3: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 3 resumed by thread -1
+Thread 4 resumed by thread -1
+T4: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 4 resumed by thread -1
+T4: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 4 resumed by thread -1
+T4: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 4 resumed by thread -1
+T4: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 4 resumed by thread -1
+Thread 5 resumed by thread -1
+T5: iteration 1
+MyYieldThread: Thread 0 does not exist
+Thread 5 resumed by thread -1
+T5: iteration 2
+MyYieldThread: Thread 0 does not exist
+Thread 5 resumed by thread -1
+T5: iteration 3
+MyYieldThread: Thread 0 does not exist
+Thread 5 resumed by thread -1
+T5: iteration 4
+MyYieldThread: Thread 0 does not exist
+Thread 5 resumed by thread -1
+
+System exiting (normal)

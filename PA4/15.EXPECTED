@@ -1,0 +1,55 @@
+
+Running test 15
+
+T4: iteration 0
+T3: iteration 0
+T2: iteration 0
+T1: iteration 0
+T0: iteration 0
+Thread 4 resumed by thread 0
+T4: iteration 1
+Thread 3 resumed by thread 4
+T3: iteration 1
+Thread 2 resumed by thread 3
+T2: iteration 1
+Thread 1 resumed by thread 2
+T1: iteration 1
+Thread 0 resumed by thread 1
+T0: iteration 1
+Thread 4 resumed by thread 0
+T4: iteration 2
+Thread 3 resumed by thread 4
+T3: iteration 2
+Thread 2 resumed by thread 3
+T2: iteration 2
+Thread 1 resumed by thread 2
+T1: iteration 2
+Thread 0 resumed by thread 1
+T0: iteration 2
+Thread 4 resumed by thread 0
+T4: iteration 3
+Thread 3 resumed by thread 4
+T3: iteration 3
+Thread 2 resumed by thread 3
+T2: iteration 3
+Thread 1 resumed by thread 2
+T1: iteration 3
+Thread 0 resumed by thread 1
+T0: iteration 3
+Thread 4 resumed by thread 0
+T4: iteration 4
+Thread 3 resumed by thread 4
+T3: iteration 4
+Thread 2 resumed by thread 3
+T2: iteration 4
+Thread 1 resumed by thread 2
+T1: iteration 4
+Thread 0 resumed by thread 1
+T0: iteration 4
+Thread 4 resumed by thread 0
+Thread 3 resumed by thread -1
+Thread 2 resumed by thread -1
+Thread 1 resumed by thread -1
+Thread 0 resumed by thread -1
+
+System exiting (normal)
